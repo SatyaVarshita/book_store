@@ -114,4 +114,8 @@ VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
 VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 VITE_FIREBASE_APP_ID=your_firebase_app_id
 
+In order to  login to admin board the  username and password is :
+" Username": admin
+"password":123456
+
 
